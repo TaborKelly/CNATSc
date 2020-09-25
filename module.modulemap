@@ -1,0 +1,5 @@
+module CNATSc [system] {
+    header "shim.h"
+    link "nats"
+    export *
+}
