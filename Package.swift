@@ -3,5 +3,5 @@ import PackageDescription
 
 let package = Package(
     name: "CNATSc",
-    pkgConfig: "nats"
+    pkgConfig: "libnats"
 )
